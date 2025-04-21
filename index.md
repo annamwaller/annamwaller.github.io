@@ -12,4 +12,4 @@ title: "Welcome"
   *[View project](#)*
 
 ## Zambia River Map
-<img src="/assets/images/riverlayout.png" alt="River Layout">  
+<img src="/assets/images/zam_rivers.png" alt="River Layout">  
