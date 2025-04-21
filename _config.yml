@@ -1,0 +1,10 @@
+title: "Anna Waller"
+description: "Portfolio"
+url: "https://annamwaller.github.io"
+baseurl: ""  # no trailing slash
+theme: minima
+minimal_mistakes_skin: "dark"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
