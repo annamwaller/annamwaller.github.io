@@ -2,9 +2,7 @@ title: "Anna Waller"
 description: "Portfolio"
 url: "https://annamwaller.github.io"
 baseurl: ""  # no trailing slash
-theme: minima
-minimal_mistakes_skin: "dark"
-
+theme: cayman
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
